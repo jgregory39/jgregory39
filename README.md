@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jgregory39
-- 👀 I’m interested in cybersecurity and programming
-- 🌱 I’m currently learning IT skills and cryptography
-- 💞️ I’m looking to collaborate on nothing currently
+- 👀 I’m interested in cybersecurity and scripting
+- 🌱 I’m currently learning cybersecurity and information security
 - 📫 How to reach me josephgregory39@protonmail.com
 
 <!---
